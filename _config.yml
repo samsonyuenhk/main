@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Samson Yuen"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "profile.jpg"
+  bio              : "I am a political scientist who is interested in contentious politics, conflict processes, public opinion and state-society relations, with a regional focus on China and East Asia. Currently, I am Associate Professor of Political Science at the Department of Government and International Studies of Hong Kong Baptist University. I am also the Director of the Comparative Governance and Policy Research Centre, Hong Kong Baptist University. I have been a visiting fellow in the Australia Centre on China in the World, Australian National University.My research has been published in Democratization, Geopolitics, Government and Opposition, Journal of Conflict Resolution, Journal of Peace Research, Journal of Contemporary China, Mobilization, Political Psychology, Political Studies, Social Movement Studies, The China Quarterly, and others. My book, The Making of Leaderful Mobilization: Power and Contention in Hong Kong (coauthored book with Edmund W. Cheng), is published by Cambridge University Press under the Cambridge Series in Contentious Politics."
+  location         : "Hong Kong"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=vHn2uKcAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-7816-7180"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@SamsonYuen852"
   vine             :
   weibo            :
   xing             :
