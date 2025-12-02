@@ -11,8 +11,8 @@ author_profile: true
 
 ## Books
 
-**The Making of Leaderful Mobilizations: Power and Contention in Hong Kong**  
-*(co-authored with Edmund Cheng), Cambridge Series in Contentious Politics, Cambridge University Press, 2025*  
+**The Making of Leaderful Mobilizations: Power and Contention in Hong Kong** *(co-authored with Edmund Cheng)
+Cambridge Series in Contentious Politics, Cambridge University Press, 2025*  
 
 The past few decades saw the transformation of Hong Kong from a liberal enclave to a revolutionary crucible. *The Making of Leaderful Mobilization* takes you through the evolution of protests in this restive city, where ordinary citizens gradually emerged as the protagonists of contention in place of social movement organizations. The book presents a theory of mediated threat that illuminates how threat perceptions fueled shifting forms of mobilization – from brokered mobilization where organizations played guiding roles to leaderful mobilization driven by peer collaboration among the masses. Bringing together event analysis, opinion polls, interviews, and social media data, this book provides a thorough and methodical anatomy of Hong Kong’s contentious politics. It unveils the processes and mechanisms of collective action that likely prevailed in many contemporary social movements worldwide. Our temporal approach also uncovers the multiple pathways reshaping hybrid regimes, underscoring their resilience and fragility.
 
@@ -22,29 +22,17 @@ The past few decades saw the transformation of Hong Kong from a liberal enclave 
 
 ---
 
-## Social Movements and Contentious Politics
+## Contentious Politics
 
-- Samson Yuen. *Forthcoming.*  
-  **Braking Bad: How Internal Brakes Restrain Violent Tactics in Leaderless Protests**  
-  _Journal of Peace Research_
-- Samson Yuen & John Chit Wai Mok. 2023.  
-  **Groundwork for Democracy? Community Activism and Movement Abeyance in Post-handover Hong Kong**  
-  _The China Journal_. [doi: 10.1086/725129](https://doi.org/10.1086/725129)
-- Samson Yuen. 2023.  
-  **Tolerant Solidarity with Violent Protesters: Evidence from a Survey Experiment**  
-  _Journal of Conflict Resolution_. [doi: 10.1177/00220027231154451](https://doi.org/10.1177/00220027231154451)
+- Samson Yuen. *Forthcoming.* **Braking Bad: How Internal Brakes Restrain Violent Tactics in Leaderless Protests.** _Journal of Peace Research_
+- Samson Yuen & John Chit Wai Mok. 2023. **Groundwork for Democracy? Community Activism and Movement Abeyance in Post-handover Hong Kong.**  The China Journal_. 90(1):78-105. [doi: 10.1086/725129](https://doi.org/10.1086/725129)
+- Samson Yuen. 2023. **Tolerant Solidarity with Violent Protesters: Evidence from a Survey Experiment.** _Journal of Conflict Resolution_. 67(9): 1731-1756. [doi: 10.1177/00220027231154451](https://doi.org/10.1177/00220027231154451)
   - Appendix
   - [Dataset for replication](#)
   - [R file](#)
-- Edmund W. Cheng, Samson Yuen, Francis L. F. Lee & Gary Tang. 2022.  
-  **Total Mobilisation from Below: Abeyance Networks, Threats and Emotions in Hong Kong’s Freedom Summer**  
-  _The China Quarterly_. 251: 629-659.
-- Samson Yuen, Gary Tang, Francis L. F. Lee & Edmund W. Cheng. 2022.  
-  **Surveying Spontaneous Mass Protests: Mixed-mode Sampling in Hong Kong’s Anti-Extradition Bill Movement**  
-  _Sociological Methodology_ 52(1): 75-102.
-- Samson Yuen. 2021.  
-  **Institutional Foundation of Countermobilization: Elites and Pro-Regime Grassroots Organizations in Post-handover Hong Kong**  
-  _Government and Opposition_. 1-22. [doi:10.1017/gov.2021.39](https://doi.org/10.1017/gov.2021.39)
+- Edmund W. Cheng, Samson Yuen, Francis L. F. Lee & Gary Tang. 2022. **Total Mobilisation from Below: Abeyance Networks, Threats and Emotions in Hong Kong’s Freedom Summer.** _The China Quarterly_. 251: 629-659. [doi: 10.1017/S0305741022000236](https://doi.org/10.1017/S0305741022000236)
+- Samson Yuen, Gary Tang, Francis L. F. Lee & Edmund W. Cheng. 2022. **Surveying Spontaneous Mass Protests: Mixed-mode Sampling in Hong Kong’s Anti-Extradition Bill Movement.** _Sociological Methodology_ 52(1): 75-102. [doi:10.1177/00811750211071130](https://doi.org/10.1177/00811750211071130) 
+- Samson Yuen. 2021. **Institutional Foundation of Countermobilization: Elites and Pro-Regime Grassroots Organizations in Post-handover Hong Kong.** _Government and Opposition_. 1-22. [doi:10.1017/gov.2021.39](https://doi.org/10.1017/gov.2021.39)
 - Samson Yuen & Gary Tang. 2021.  
   **Instagram Networks and Social Capital: Teenage Activism in Hong Kong’s Anti-Extradition Bill Movement**  
   _Social Movement Studies_. [doi: 10.1080/14742837.2021.2011189](https://doi.org/10.1080/14742837.2021.2011189)
@@ -79,6 +67,10 @@ The past few decades saw the transformation of Hong Kong from a liberal enclave 
 
 ---
 
+## Migration
+
+
+---
 ## State-Society Relations in Greater China
 
 - Samson Yuen & Karita Kan. 2021.  
