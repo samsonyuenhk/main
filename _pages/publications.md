@@ -25,26 +25,27 @@ The past few decades saw the transformation of Hong Kong from a liberal enclave 
 
 ### Contentious Politics
 
-- Samson Yuen. *Forthcoming.* **Braking Bad: How Internal Brakes Restrain Violent Tactics in Leaderless Protests.** _Journal of Peace Research_.
-- Samson Yuen & John Chit Wai Mok. 2023. **Groundwork for Democracy? Community Activism and Movement Abeyance in Post-handover Hong Kong.**  The China Journal_. 90(1):78-105. [doi: 10.1086/725129](https://doi.org/10.1086/725129)
-- Samson Yuen. 2023. **Tolerant Solidarity with Violent Protesters: Evidence from a Survey Experiment.** _Journal of Conflict Resolution_. 67(9): 1731-1756. [doi: 10.1177/00220027231154451](https://doi.org/10.1177/00220027231154451)
+- Yuen, Samson. *Forthcoming.* **Braking Bad: How Internal Brakes Restrain Violent Tactics in Leaderless Protests.** _Journal of Peace Research_.
+- Lee, Francis LF, Samson Yuen, and Gary Tang. 2025. **Protest Memories and Individual Persistence: Examining Participants’ Intention to Remember a Movement under Democratic Backsliding.** _Social Movement Studies_. [doi: 10.1080/14742837.2025.2481050](https://doi.org/10.1080/14742837.2025.2481050)
+- Yuen, Samson & John Chit Wai Mok. 2023. **Groundwork for Democracy? Community Activism and Movement Abeyance in Post-handover Hong Kong.**  The China Journal_. 90(1):78-105. [doi: 10.1086/725129](https://doi.org/10.1086/725129)
+- Yuen, Samson. 2023. **Tolerant Solidarity with Violent Protesters: Evidence from a Survey Experiment.** _Journal of Conflict Resolution_. 67(9): 1731-1756. [doi: 10.1177/00220027231154451](https://doi.org/10.1177/00220027231154451)
   - Appendix
   - [Dataset for replication](#)
   - [R file](#)
-- Edmund W. Cheng, Samson Yuen, Francis L. F. Lee & Gary Tang. 2022. **Total Mobilisation from Below: Abeyance Networks, Threats and Emotions in Hong Kong’s Freedom Summer.** _The China Quarterly_. 251: 629-659. [doi: 10.1017/S0305741022000236](https://doi.org/10.1017/S0305741022000236)
-- Samson Yuen, Gary Tang, Francis L. F. Lee & Edmund W. Cheng. 2022. **Surveying Spontaneous Mass Protests: Mixed-mode Sampling in Hong Kong’s Anti-Extradition Bill Movement.** _Sociological Methodology_ 52(1): 75-102. [doi:10.1177/00811750211071130](https://doi.org/10.1177/00811750211071130) 
-- Samson Yuen. 2021. **Institutional Foundation of Countermobilization: Elites and Pro-Regime Grassroots Organizations in Post-handover Hong Kong.** _Government and Opposition_. 1-22. [doi:10.1017/gov.2021.39](https://doi.org/10.1017/gov.2021.39)
-- Samson Yuen & Gary Tang. 2021. **Instagram Networks and Social Capital: Teenage Activism in Hong Kong’s Anti-Extradition Bill Movement** _Social Movement Studies_. [doi: 10.1080/14742837.2021.2011189](https://doi.org/10.1080/14742837.2021.2011189)
+- Edmund W. Cheng, Yuen, Samson, Francis L. F. Lee & Gary Tang. 2022. **Total Mobilisation from Below: Abeyance Networks, Threats and Emotions in Hong Kong’s Freedom Summer.** _The China Quarterly_. 251: 629-659. [doi: 10.1017/S0305741022000236](https://doi.org/10.1017/S0305741022000236)
+- Yuen, Samson, Gary Tang, Francis L. F. Lee & Edmund W. Cheng. 2022. **Surveying Spontaneous Mass Protests: Mixed-mode Sampling in Hong Kong’s Anti-Extradition Bill Movement.** _Sociological Methodology_ 52(1): 75-102. [doi:10.1177/00811750211071130](https://doi.org/10.1177/00811750211071130) 
+- Yuen, Samson. 2021. **Institutional Foundation of Countermobilization: Elites and Pro-Regime Grassroots Organizations in Post-handover Hong Kong.** _Government and Opposition_. 1-22. [doi:10.1017/gov.2021.39](https://doi.org/10.1017/gov.2021.39)
+- Yuen, Samson & Gary Tang. 2021. **Instagram Networks and Social Capital: Teenage Activism in Hong Kong’s Anti-Extradition Bill Movement** _Social Movement Studies_. [doi: 10.1080/14742837.2021.2011189](https://doi.org/10.1080/14742837.2021.2011189)
   - *Honourable mention for the 2022 Britta Baumgarten Memorial Prize*
-- Samson Yuen & Kin-long Tong. 2021. **Solidarity in Diversity: Online Petitions and Collective Identity in Hong Kong’s Anti-Extradition Bill Movement** _Japanese Journal of Political Science_. 22(4): 215-232. [doi: 10.1017/S146810992100030X](https://doi.org/10.1017/S146810992100030X)
+- Yuen, Samson & Kin-long Tong. 2021. **Solidarity in Diversity: Online Petitions and Collective Identity in Hong Kong’s Anti-Extradition Bill Movement** _Japanese Journal of Political Science_. 22(4): 215-232. [doi: 10.1017/S146810992100030X](https://doi.org/10.1017/S146810992100030X)
 - Kin-long Tong & Samson Yuen. 2021. **Disciplining Student Activism: Secondary Schools as Sites of Political Struggle during Mass Protests** _Sociological Forum_. 36(4): 984-1004. [doi: 10.1111/socf.12744](https://doi.org/10.1111/socf.12744)
 - Francis L. F. Lee, Hai Liang, Edmund W. Cheng, Gary Tang & Samson Yuen. 2021. **Affordances, Movement Dynamics, and LIHKG as a Centralized Communication Platform in the 2019 Hong Kong Protests.** _Information, Communication and Society_. 25(12): 1699-1716. [doi:10.1080/1369118X.2021.1877772](https://doi.org/10.1080/1369118X.2021.1877772)
 - Francis L. F. Lee, Edmund W. Cheng, Hai Liang, Gary Tang & Samson Yuen. 2021. **Dynamics of Tactical Radicalization and Public Receptiveness in Hong Kong’s Anti-Extradition Bill Movement.** _Journal of Contemporary Asia_. 52(3): 429-451. [doi: 10.1080/00472336.2021.1910330](https://doi.org/10.1080/00472336.2021.1910330)
 - Gary Tang, Eva P. W. Hung, Christopher H. K. Au-Yeung & Samson Yuen. 2020. **Politically Motivated Internet Addiction: Relationship among Online Information Exposure, Internet Addiction, FOMO, Psychological Well-being, and Radicalism in a Massive Political Turbulence.** _International Journal of Environmental Research and Public Health_. 17(2):633. [doi: 10.3390/ijerph17020633](https://doi.org/10.3390/ijerph17020633)
 - Francis L. F. Lee, Samson Yuen, Gary Tang & Edmund W. Cheng. 2020. **Hong Kong’s Summer of Uprising: From Anti-Extradition to Anti-Authoritarian Protests.** _China Review_. 19(4): 1-32. [https://www.jstor.org/stable/26838911](https://www.jstor.org/stable/26838911)
 - Edmund W. Cheng & Samson Yuen. 2019. **Memory in Movement: Collective Identity and Memory Contestation in Hong Kong’s Tiananmen Vigils.** _Mobilization: An International Quarterly_. 24(4): 419-437. [doi: 10.17813/1086-671X-24-4-419](https://doi.org/10.17813/1086-671X-24-4-419)
-- Samson Yuen. 2018. **Contesting Middle-class Civility: Place-based Collective Identity in Hong Kong’s Occupy Mongkok.** _Social Movement Studies_. 17(4): 393-407.[doi: 10.1080/14742837.2018.1434501](https://doi.org/10.1080/14742837.2018.1434501)
-- Samson Yuen & Edmund W. Cheng. 2017. **Neither Repression nor Concession? A Regime’s Attrition against Mass Protests.** _Political Studies_. 65(3): 611-630. [doi: 10.1177/0032321716674024](https://doi.org/10.1177/0032321716674024)
+- Yuen, Samson. 2018. **Contesting Middle-class Civility: Place-based Collective Identity in Hong Kong’s Occupy Mongkok.** _Social Movement Studies_. 17(4): 393-407.[doi: 10.1080/14742837.2018.1434501](https://doi.org/10.1080/14742837.2018.1434501)
+- Yuen, Samson & Edmund W. Cheng. 2017. **Neither Repression nor Concession? A Regime’s Attrition against Mass Protests.** _Political Studies_. 65(3): 611-630. [doi: 10.1177/0032321716674024](https://doi.org/10.1177/0032321716674024)
 
 ---
 
@@ -55,7 +56,8 @@ Ho, Shuet-Ying Kitty, Samson Yuen, and Gary Tang. 2025. **Citizens in Transit: D
 ---
 ### State-Society Relations in Greater China
 
-- Samson Yuen & Karita Kan. 2021.  
+- Lee, Francis LF, Samson Yuen, and Gary KY Tang. 2025. **Adaptation and resilience: How pro-democracy protesters respond to autocratisation in Hong Kong.** _Journal of Contemporary Asia_ 55(5): 801-821. [doi: 10.1080/00472336.2024.2424173](https://doi.org/10.1080/00472336.2024.2424173)
+- - Samson Yuen & Karita Kan. 2021.  
   **Of Mad Cows and Dead Pigs: Negotiating Food Safety and Sovereignty in Taiwan**  
   _Geopolitics_. 27(5)
 - Samson Yuen. 2021.  
