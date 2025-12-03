@@ -21,8 +21,9 @@ The past few decades saw the transformation of Hong Kong from a liberal enclave 
   **Order:** [Cambridge University Press](#) / [Amazon](#)
 
 ---
+## Peer-reviewed journal articles
 
-## Contentious Politics
+### Contentious Politics
 
 - Samson Yuen. *Forthcoming.* **Braking Bad: How Internal Brakes Restrain Violent Tactics in Leaderless Protests.** _Journal of Peace Research_.
 - Samson Yuen & John Chit Wai Mok. 2023. **Groundwork for Democracy? Community Activism and Movement Abeyance in Post-handover Hong Kong.**  The China Journal_. 90(1):78-105. [doi: 10.1086/725129](https://doi.org/10.1086/725129)
@@ -47,12 +48,12 @@ The past few decades saw the transformation of Hong Kong from a liberal enclave 
 
 ---
 
-## Migration
+### Migration
 
 Ho, Shuet-Ying Kitty, Samson Yuen, and Gary Tang. 2025. **Citizens in Transit: Diasporic Citizenship of Hongkongers Living as British National Overseas Migrants in the United Kingdom.** _Asian Ethnicity_. [doi:10.1080/14631369.2025.2551704](https://doi.org/10.1080/14631369.2025.2551704).
 
 ---
-## State-Society Relations in Greater China
+### State-Society Relations in Greater China
 
 - Samson Yuen & Karita Kan. 2021.  
   **Of Mad Cows and Dead Pigs: Negotiating Food Safety and Sovereignty in Taiwan**  
@@ -113,7 +114,7 @@ Ho, Shuet-Ying Kitty, Samson Yuen, and Gary Tang. 2025. **Citizens in Transit: D
 
 ---
 
-## Politics of Public Health
+### Politics of Public Health
 
 - Bobo H. P. Lau, Samson Yuen, Ricci P. H. Yue & Karen A. Grepin. 2022.  
   **Understanding the Societal Factors of Vaccine Acceptance and Hesitancy: Evidence from Hong Kong**  
