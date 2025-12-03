@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Economics, University of Chicago, 2008
+* M.Phil. in Comparative Government, Oxford University, 2012
+* D.Phil in Politics, Oxford University, 2017 
 
 Work experience
 ======
