@@ -59,127 +59,61 @@ The past few decades saw the transformation of Hong Kong from a liberal enclave 
 ### State-Society Relations in Greater China
 
 - Lee, Francis LF, Samson Yuen, and Gary KY Tang. 2025. **Adaptation and resilience: How pro-democracy protesters respond to autocratisation in Hong Kong.** _Journal of Contemporary Asia_ 55(5): 801-821. [doi: 10.1080/00472336.2024.2424173](https://doi.org/10.1080/00472336.2024.2424173)
-- - Samson Yuen & Karita Kan. 2021.  
-  **Of Mad Cows and Dead Pigs: Negotiating Food Safety and Sovereignty in Taiwan**  
-  _Geopolitics_. 27(5)
-- Samson Yuen. 2021.  
-  **Native-Place Networks and Political Mobilization: The Case of Post-handover Hong Kong**  
-  _Modern China_. 47(5): 510-539.
+- - Samson Yuen & Karita Kan. 2021. **Of Mad Cows and Dead Pigs: Negotiating Food Safety and Sovereignty in Taiwan.** _Geopolitics_. 27(5)
+- Samson Yuen. 2021. **Native-Place Networks and Political Mobilization: The Case of Post-handover Hong Kong.** _Modern China_. 47(5): 510-539.
   - *ICAS 2021 Best Article Prize on Global Hong Kong Studies*
   - *The Academy of Hong Kong Studies 2021 Outstanding Paper Award*
-- Samson Yuen & Edmund W. Cheng. 2020.  
-  **Deepening the State: The Dynamics of China’s United Front Work in Post-Handover Hong Kong**  
-  _Communist and Post-communist Studies_. 53(4): 136-154.
-- Francis L. F. Lee, Samson Yuen, Gary Tang & Edmund W. Cheng. 2020.  
-  **Five Demands and (Not Quite) Beyond**  
-  _Communist and Post-communist Studies_ 53(4): 22-40.
-- Samson Yuen. 2020.  
-  **Delivering Services in China’s Fragmented Local State: The Procurement of Social Work NGOs in Guangzhou**  
-  _China Review_ 20(4): 159–188.
-- Samson Yuen & Edmund W. Cheng. 2020.  
-  **Between High Autonomy and Sovereign Control in a Subnational Island Jurisdiction: The Paradox of Hong Kong under ‘One Country, Two Systems’**  
-  _Island Studies Journal_ 15(1): 131-150.
-- Samson Yuen & Sanho Chung. 2019.  
-  **Explaining Localism in Post-handover Hong Kong: An Eventful Approach**  
-  _China Perspectives_. 3: 19-29.
-- Samson Yuen & Edmund W. Cheng. 2018.  
-  **Rethinking Contentious Politics in Hong Kong: Change and Continuity**  
-  _Hong Kong Studies_. 1(1): 7-25.
-- Samson Yuen. 2018.  
-  **Negotiating Service Activism in China: The Impact of NGOs’ Institutional Embeddedness in the Local State**  
-  _Journal of Contemporary China_. 27(111): 406-427.
-- Karita Kan & Samson Yuen. 2018.  
-  **Visceral Politics: Food and Risk in China-Taiwan Relations**  
-  _China Information_. 32(3): 443-462.
-- Samson Yuen. 2015.  
-  **Friend or Foe? The Diminishing Space of China’s Civil Society**  
-  _China Perspectives_. 3: 51-56.
-- Samson Yuen. 2015.  
-  **Becoming a Cyber Power: China’s Cybersecurity Upgrades and its Consequences**  
-  _China Perspectives_. 2: 53-58.
-- Samson Yuen. 2015.  
-  **Hong Kong After the Umbrella Movement: An Uncertain Future for the ‘One Country Two Systems’**  
-  _China Perspectives_. 1: 49-53.
-- Samson Yuen. 2014.  
-  **Taming the ‘Foreign Tigers’: China’s Anti-Trust Crusade against Multinational Companies**  
-  _China Perspectives_. 4: 53-59.
-- Samson Yuen. 2014.  
-  **Disciplining the Party: Xi Jinping’s Anti-Corruption Campaign and its Limits**  
-  _China Perspectives_. 3: 41-47.
-- Samson Yuen. 2014.  
-  **Under the Shadow of China: Beijing’s Policy towards Hong Kong and Taiwan in Comparative Perspective**  
-  _China Perspectives_. 2: 69-76.
-- Samson Yuen. 2014.  
-  **China’s New Rural Land Reform? Assessment and Prospects**  
-  _China Perspectives_. 1: 61-65.
-- Samson Yuen. 2013.  
-  **Debating Constitutionalism in China: Dreaming of a Liberal Turn**  
-  _China Perspectives_. 4: 67-72.
+- Samson Yuen & Edmund W. Cheng. 2020. **Deepening the State: The Dynamics of China’s United Front Work in Post-Handover Hong Kong.** _Communist and Post-communist Studies_. 53(4): 136-154.
+- Francis L. F. Lee, Samson Yuen, Gary Tang & Edmund W. Cheng. 2020. **Five Demands and (Not Quite) Beyond.** _Communist and Post-communist Studies_ 53(4): 22-40.
+- Samson Yuen. 2020. **Delivering Services in China’s Fragmented Local State: The Procurement of Social Work NGOs in Guangzhou.** _China Review_ 20(4): 159–188.
+- Samson Yuen & Edmund W. Cheng. 2020. **Between High Autonomy and Sovereign Control in a Subnational Island Jurisdiction: The Paradox of Hong Kong under ‘One Country, Two Systems’.** _Island Studies Journal_ 15(1): 131-150.
+- Samson Yuen & Sanho Chung. 2019. **Explaining Localism in Post-handover Hong Kong: An Eventful Approach.** _China Perspectives_. 3: 19-29.
+- Samson Yuen & Edmund W. Cheng. 2018. **Rethinking Contentious Politics in Hong Kong: Change and Continuity.** _Hong Kong Studies_. 1(1): 7-25.
+- Samson Yuen. 2018. **Negotiating Service Activism in China: The Impact of NGOs’ Institutional Embeddedness in the Local State.** _Journal of Contemporary China_. 27(111): 406-427.
+- Karita Kan & Samson Yuen. 2018. **Visceral Politics: Food and Risk in China-Taiwan Relations.** _China Information_. 32(3): 443-462.
+- Samson Yuen. 2015. **Friend or Foe? The Diminishing Space of China’s Civil Society.** _China Perspectives_. 3: 51-56.
+- Samson Yuen. 2015. **Becoming a Cyber Power: China’s Cybersecurity Upgrades and its Consequences.** _China Perspectives_. 2: 53-58.
+- Samson Yuen. 2015. **Hong Kong After the Umbrella Movement: An Uncertain Future for the ‘One Country Two Systems’.** _China Perspectives_. 1: 49-53.
+- Samson Yuen. 2014. **Taming the ‘Foreign Tigers’: China’s Anti-Trust Crusade against Multinational Companies.** _China Perspectives_. 4: 53-59.
+- Samson Yuen. 2014. **Disciplining the Party: Xi Jinping’s Anti-Corruption Campaign and its Limits.** _China Perspectives_. 3: 41-47.
+- Samson Yuen. 2014. **Under the Shadow of China: Beijing’s Policy towards Hong Kong and Taiwan in Comparative Perspective.** _China Perspectives_. 2: 69-76.
+- Samson Yuen. 2014. **China’s New Rural Land Reform? Assessment and Prospects.** _China Perspectives_. 1: 61-65.
+- Samson Yuen. 2013. **Debating Constitutionalism in China: Dreaming of a Liberal Turn.** _China Perspectives_. 4: 67-72.
 
 ---
 
-### Politics of Public Health
+### Public Health
 
-- Bobo H. P. Lau, Samson Yuen, Ricci P. H. Yue & Karen A. Grepin. 2022.  
-  **Understanding the Societal Factors of Vaccine Acceptance and Hesitancy: Evidence from Hong Kong**  
-  _Public Health_. 207: 39-45.
-- Siuyau Lee, Samson Yuen, Nick Or, Edmund W. Cheng & Ricci P. H. Yue. 2022.  
-  **COVID-19 Vulnerability, Policy Feedback, and Support for Immigration: Evidence from Asia**  
-  _British Journal of Social Psychology_. 61(4): 1124-1143.
-- Nick Or, Edmund W. Cheng, Ricci P. H. Yue & Samson Yuen. 2021.  
-  **Risk Perceptions, Anxiety and the Future of International Trade: A Cross-national Study of Public Trade Preferences in Asia under COVID-19**  
-  _Journal of Elections, Public Opinion and Parties_. 31(1): 26–40.
-- Samson Yuen, Edmund W. Cheng, Nick Or, Karen A. Grepin, King-wa Fu, Ka Chun Yung & Ricci P. H. Yue. 2021.  
-  **A Tale of Two City-states: A Comparison of the State-led vs Civil Society-led Responses to COVID-19 in Singapore and Hong Kong**  
-  _Global Public Health_. 16(8-9): 1283-1303.
+- Bobo H. P. Lau, Samson Yuen, Ricci P. H. Yue & Karen A. Grepin. 2022. **Understanding the Societal Factors of Vaccine Acceptance and Hesitancy: Evidence from Hong Kong.** _Public Health_. 207: 39-45.
+- Siuyau Lee, Samson Yuen, Nick Or, Edmund W. Cheng & Ricci P. H. Yue. 2022. **COVID-19 Vulnerability, Policy Feedback, and Support for Immigration: Evidence from Asia.** _British Journal of Social Psychology_. 61(4): 1124-1143.
+- Nick Or, Edmund W. Cheng, Ricci P. H. Yue & Samson Yuen. 2021. **Risk Perceptions, Anxiety and the Future of International Trade: A Cross-national Study of Public Trade Preferences in Asia under COVID-19.** _Journal of Elections, Public Opinion and Parties_. 31(1): 26–40.
+- Samson Yuen, Edmund W. Cheng, Nick Or, Karen A. Grepin, King-wa Fu, Ka Chun Yung & Ricci P. H. Yue. 2021. **A Tale of Two City-states: A Comparison of the State-led vs Civil Society-led Responses to COVID-19 in Singapore and Hong Kong.** _Global Public Health_. 16(8-9): 1283-1303.
 
 ---
 
 ## Edited Volume
 
-- Edmund W. Cheng & Samson Yuen. 2018.  
-  **The Epoch of Social Movement: Trajectory of Contentious Politics in Hong Kong 社運年代：香港抗爭政治的軌跡**  
-  Hong Kong: Chinese University of Hong Kong Press. [In Chinese]
+- Edmund W. Cheng & Samson Yuen. 2018. **The Epoch of Social Movement: Trajectory of Contentious Politics in Hong Kong 社運年代：香港抗爭政治的軌跡.** Hong Kong: Chinese University of Hong Kong Press. [In Chinese]
 
 ---
 
 ## Book Chapters
 
-- Edmund W. Cheng & Samson Yuen. 2021.  
-  **Ant-Extradition Movement.**  
-  In: Snow, David A., Della Porta, Donatella & Klandermans, Bert (eds). _The Wiley-Blackwell Encyclopedia of Social and Political Movements_. Malden: Wiley.
-- Chi-shun Fong & Samson Yuen. 2021.  
-  **Movement Leadership in an Era of Connective Action: A Study of Hong Kong’s Student-Led Umbrella Movement.**  
-  In: Lorenzo Cini, Donatella della Porta, Cesar Guzman-Concha (eds). _Student Movements in Late Neoliberalism_. Palgrave Macmillan.
-- Samson Yuen. 2019.  
-  **Transgressive Politics in Occupy Mongkok.**  
-  In: Ching Kwan Lee & Ming Sing (eds). _Take Back Our Future: An Eventful Sociology of the Hong Kong Umbrella Movement_. Ithaca, NY: Cornell University Press.
-- Samson Yuen. 2019.  
-  **From Repression to Attrition: State Responses towards the Umbrella Movement.**  
-  In: Ngok Ma & Edmund W. Cheng (eds). _The Umbrella Movement: Civil Resistance and Contentious Space in Hong Kong_. Amsterdam: Amsterdam University Press.
+- Edmund W. Cheng & Samson Yuen. 2021. **Ant-Extradition Movement.** In: Snow, David A., Della Porta, Donatella & Klandermans, Bert (eds). _The Wiley-Blackwell Encyclopedia of Social and Political Movements_. Malden: Wiley.
+- Chi-shun Fong & Samson Yuen. 2021. **Movement Leadership in an Era of Connective Action: A Study of Hong Kong’s Student-Led Umbrella Movement.** In: Lorenzo Cini, Donatella della Porta, Cesar Guzman-Concha (eds). _Student Movements in Late Neoliberalism_. Palgrave Macmillan.
+- Samson Yuen. 2019. **Transgressive Politics in Occupy Mongkok.** In: Ching Kwan Lee & Ming Sing (eds). _Take Back Our Future: An Eventful Sociology of the Hong Kong Umbrella Movement_. Ithaca, NY: Cornell University Press.
+- Samson Yuen. 2019. **From Repression to Attrition: State Responses towards the Umbrella Movement.** In: Ngok Ma & Edmund W. Cheng (eds). _The Umbrella Movement: Civil Resistance and Contentious Space in Hong Kong_. Amsterdam: Amsterdam University Press.
 
 ---
 
 ## Public Scholarship
 
-- Samson Yuen. 2019.  
-  **Hong Kong Protests: Why are People Demonstrating? How we Surveyed Protestors**  
-  _Political Quarterly Blog_, October 16.
-- Samson Yuen. 2019.  
-  **New research shows vast majority of Hong Kong protesters support more radical tactics**  
-  _The Conversation_, September 2.
-- Samson Yuen & Edmund W. Cheng. 2015.  
-  **Hong Kong’s Umbrella Protests Were More Than Just a Student Movement**  
-  _ChinaFile_, July 1.
-- Edmund W. Cheng & Samson Yuen. 2015.  
-  **The Umbrella Movement: Contentious Politics on China’s Periphery**  
-  _Twenty First Century Bimonthly_, 147, pp. 22-32. [In Chinese]
-- Samson Yuen. 2015.  
-  **Youth participation in Hong Kong’s Occupy Movement: How to formulate post-Occupy youth policy?**  
-  _Policy Bulletin, The Hong Kong Council of Social Service_, 18. [In Chinese]
-- Siu Yau Lee & Samson Yuen. 2015.  
-  **How is Self-reliance Possible? An Analysis of Hawker Policy and the Privatization of the Link REIT**  
-  _Journal of Local Discourse 2013-2014_. [In Chinese]
+- Samson Yuen. 2019. **Hong Kong Protests: Why are People Demonstrating? How we Surveyed Protestors.** _Political Quarterly Blog_, October 16.
+- Samson Yuen. 2019. **New research shows vast majority of Hong Kong protesters support more radical tactics.** _The Conversation_, September 2.
+- Samson Yuen & Edmund W. Cheng. 2015. **Hong Kong’s Umbrella Protests Were More Than Just a Student Movement.** _ChinaFile_, July 1.
+- Edmund W. Cheng & Samson Yuen. 2015. **The Umbrella Movement: Contentious Politics on China’s Periphery.** _Twenty First Century Bimonthly_, 147, pp. 22-32. [In Chinese]
+- Samson Yuen. 2015. **Youth participation in Hong Kong’s Occupy Movement: How to formulate post-Occupy youth policy?** _Policy Bulletin, The Hong Kong Council of Social Service_, 18. [In Chinese]
+- Siu Yau Lee & Samson Yuen. 2015. **How is Self-reliance Possible? An Analysis of Hawker Policy and the Privatization of the Link REIT** _Journal of Local Discourse 2013-2014_. [In Chinese]
 
 ---
 
