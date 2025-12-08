@@ -59,26 +59,26 @@ The past few decades saw the transformation of Hong Kong from a liberal enclave 
 ### State-Society Relations in Greater China
 
 - Lee, Francis LF, Samson Yuen, and Gary KY Tang. 2025. **Adaptation and resilience: How pro-democracy protesters respond to autocratisation in Hong Kong.** _Journal of Contemporary Asia_ 55(5): 801-821. [doi: 10.1080/00472336.2024.2424173](https://doi.org/10.1080/00472336.2024.2424173)
-- - Samson Yuen & Karita Kan. 2021. **Of Mad Cows and Dead Pigs: Negotiating Food Safety and Sovereignty in Taiwan.** _Geopolitics_. 27(5)
-- Samson Yuen. 2021. **Native-Place Networks and Political Mobilization: The Case of Post-handover Hong Kong.** _Modern China_. 47(5): 510-539.
+- Samson Yuen & Karita Kan. 2021. **Of Mad Cows and Dead Pigs: Negotiating Food Safety and Sovereignty in Taiwan.** _Geopolitics_. 27(5):  1552-1573. [doi: 10.1080/14650045.2020.1863791](https://doi.org/10.1080/14650045.2020.1863791)
+- Samson Yuen. 2021. **Native-Place Networks and Political Mobilization: The Case of Post-handover Hong Kong.** _Modern China_. 47(5): 510-539. [doi: 10.1177/0097700420934093](https://doi.org/10.1177/0097700420934093)
   - *ICAS 2021 Best Article Prize on Global Hong Kong Studies*
   - *The Academy of Hong Kong Studies 2021 Outstanding Paper Award*
-- Samson Yuen & Edmund W. Cheng. 2020. **Deepening the State: The Dynamics of China’s United Front Work in Post-Handover Hong Kong.** _Communist and Post-communist Studies_. 53(4): 136-154.
-- Francis L. F. Lee, Samson Yuen, Gary Tang & Edmund W. Cheng. 2020. **Five Demands and (Not Quite) Beyond.** _Communist and Post-communist Studies_ 53(4): 22-40.
-- Samson Yuen. 2020. **Delivering Services in China’s Fragmented Local State: The Procurement of Social Work NGOs in Guangzhou.** _China Review_ 20(4): 159–188.
-- Samson Yuen & Edmund W. Cheng. 2020. **Between High Autonomy and Sovereign Control in a Subnational Island Jurisdiction: The Paradox of Hong Kong under ‘One Country, Two Systems’.** _Island Studies Journal_ 15(1): 131-150.
-- Samson Yuen & Sanho Chung. 2019. **Explaining Localism in Post-handover Hong Kong: An Eventful Approach.** _China Perspectives_. 3: 19-29.
-- Samson Yuen & Edmund W. Cheng. 2018. **Rethinking Contentious Politics in Hong Kong: Change and Continuity.** _Hong Kong Studies_. 1(1): 7-25.
-- Samson Yuen. 2018. **Negotiating Service Activism in China: The Impact of NGOs’ Institutional Embeddedness in the Local State.** _Journal of Contemporary China_. 27(111): 406-427.
-- Karita Kan & Samson Yuen. 2018. **Visceral Politics: Food and Risk in China-Taiwan Relations.** _China Information_. 32(3): 443-462.
-- Samson Yuen. 2015. **Friend or Foe? The Diminishing Space of China’s Civil Society.** _China Perspectives_. 3: 51-56.
-- Samson Yuen. 2015. **Becoming a Cyber Power: China’s Cybersecurity Upgrades and its Consequences.** _China Perspectives_. 2: 53-58.
-- Samson Yuen. 2015. **Hong Kong After the Umbrella Movement: An Uncertain Future for the ‘One Country Two Systems’.** _China Perspectives_. 1: 49-53.
-- Samson Yuen. 2014. **Taming the ‘Foreign Tigers’: China’s Anti-Trust Crusade against Multinational Companies.** _China Perspectives_. 4: 53-59.
-- Samson Yuen. 2014. **Disciplining the Party: Xi Jinping’s Anti-Corruption Campaign and its Limits.** _China Perspectives_. 3: 41-47.
-- Samson Yuen. 2014. **Under the Shadow of China: Beijing’s Policy towards Hong Kong and Taiwan in Comparative Perspective.** _China Perspectives_. 2: 69-76.
-- Samson Yuen. 2014. **China’s New Rural Land Reform? Assessment and Prospects.** _China Perspectives_. 1: 61-65.
-- Samson Yuen. 2013. **Debating Constitutionalism in China: Dreaming of a Liberal Turn.** _China Perspectives_. 4: 67-72.
+- Samson Yuen & Edmund W. Cheng. 2020. **Deepening the State: The Dynamics of China’s United Front Work in Post-Handover Hong Kong.** _Communist and Post-communist Studies_. 53(4): 136-154. https://www.jstor.org/stable/48610604. 
+- Francis L. F. Lee, Samson Yuen, Gary Tang & Edmund W. Cheng. 2020. **Five Demands and (Not Quite) Beyond.** _Communist and Post-communist Studies_ 53(4): 22-40. [link](https://www.jstor.org/stable/48610599). 
+- Samson Yuen. 2020. **Delivering Services in China’s Fragmented Local State: The Procurement of Social Work NGOs in Guangzhou.** _China Review_ 20(4): 159–188. [link](https://www.jstor.org/stable/26959857). 
+- Samson Yuen & Edmund W. Cheng. 2020. **Between High Autonomy and Sovereign Control in a Subnational Island Jurisdiction: The Paradox of Hong Kong under ‘One Country, Two Systems’.** _Island Studies Journal_ 15(1): 131-150. [doi: 10.24043/isj.110](https://doi.org/10.24043/isj.110)
+- Samson Yuen & Sanho Chung. 2019. **Explaining Localism in Post-handover Hong Kong: An Eventful Approach.** _China Perspectives_. 3: 19-29. [doi: 10.4000/chinaperspectives.8044](https://doi.org/10.4000/chinaperspectives.8044)
+- Samson Yuen & Edmund W. Cheng. 2018. **Rethinking Contentious Politics in Hong Kong: Change and Continuity.** _Hong Kong Studies_. 1(1): 7-25. [link](https://cup.cuhk.edu.hk/chinesepress/journal/HKS1.1/HKS1.1_7-25.pdf). 
+- Samson Yuen. 2018. **Negotiating Service Activism in China: The Impact of NGOs’ Institutional Embeddedness in the Local State.** _Journal of Contemporary China_. 27(111): 406-427. [doi: 10.1080/10670564.2018.1410976](https://doi.org/10.1080/10670564.2018.1410976)
+- Karita Kan & Samson Yuen. 2018. **Visceral Politics: Food and Risk in China-Taiwan Relations.** _China Information_. 32(3): 443-462. [doi: 10.1177/0920203X18769217](https://doi.org/10.1177/0920203X18769217)
+- Samson Yuen. 2015. **Friend or Foe? The Diminishing Space of China’s Civil Society.** _China Perspectives_. 3: 51-56. [doi: 10.4000/chinaperspectives.6807](https://doi.org/10.4000/chinaperspectives.6807)
+- Samson Yuen. 2015. **Becoming a Cyber Power: China’s Cybersecurity Upgrades and its Consequences.** _China Perspectives_. 2: 53-58. [doi: 10.4000/chinaperspectives.6731](https://doi.org/10.4000/chinaperspectives.6731).
+- Samson Yuen. 2015. **Hong Kong After the Umbrella Movement: An Uncertain Future for the ‘One Country Two Systems’.** _China Perspectives_. 1: 49-53. [doi: 10.4000/chinaperspectives.6656](https://doi.org/10.4000/chinaperspectives.6656). 
+- Samson Yuen. 2014. **Taming the ‘Foreign Tigers’: China’s Anti-Trust Crusade against Multinational Companies.** _China Perspectives_. 4: 53-59. [doi: 10.4000/chinaperspectives.6587](https://doi.org/10.4000/chinaperspectives.6587)
+- Samson Yuen. 2014. **Disciplining the Party: Xi Jinping’s Anti-Corruption Campaign and its Limits.** _China Perspectives_. 3: 41-47. [doi: 10.4000/chinaperspectives.6542](https://doi.org/10.4000/chinaperspectives.6542)
+- Samson Yuen. 2014. **Under the Shadow of China: Beijing’s Policy towards Hong Kong and Taiwan in Comparative Perspective.** _China Perspectives_. 2: 69-76. [doi: 10.4000/chinaperspectives.6491](https://doi.org/10.4000/chinaperspectives.6491)
+- Samson Yuen. 2014. **China’s New Rural Land Reform? Assessment and Prospects.** _China Perspectives_. 1: 61-65. [doi: 10.4000/chinaperspectives.6403](https://doi.org/10.4000/chinaperspectives.6403)
+- Samson Yuen. 2013. **Debating Constitutionalism in China: Dreaming of a Liberal Turn.** _China Perspectives_. 4: 67-72. [doi: 10.4000/chinaperspectives.6325](https://doi.org/10.4000/chinaperspectives.6325)
 
 ---
 
