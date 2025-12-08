@@ -84,10 +84,10 @@ The past few decades saw the transformation of Hong Kong from a liberal enclave 
 
 ### Public Health
 
-- Bobo H. P. Lau, Samson Yuen, Ricci P. H. Yue & Karen A. Grepin. 2022. **Understanding the Societal Factors of Vaccine Acceptance and Hesitancy: Evidence from Hong Kong.** _Public Health_. 207: 39-45.
-- Siuyau Lee, Samson Yuen, Nick Or, Edmund W. Cheng & Ricci P. H. Yue. 2022. **COVID-19 Vulnerability, Policy Feedback, and Support for Immigration: Evidence from Asia.** _British Journal of Social Psychology_. 61(4): 1124-1143.
-- Nick Or, Edmund W. Cheng, Ricci P. H. Yue & Samson Yuen. 2021. **Risk Perceptions, Anxiety and the Future of International Trade: A Cross-national Study of Public Trade Preferences in Asia under COVID-19.** _Journal of Elections, Public Opinion and Parties_. 31(1): 26–40.
-- Samson Yuen, Edmund W. Cheng, Nick Or, Karen A. Grepin, King-wa Fu, Ka Chun Yung & Ricci P. H. Yue. 2021. **A Tale of Two City-states: A Comparison of the State-led vs Civil Society-led Responses to COVID-19 in Singapore and Hong Kong.** _Global Public Health_. 16(8-9): 1283-1303.
+- Bobo H. P. Lau, Samson Yuen, Ricci P. H. Yue & Karen A. Grepin. 2022. **Understanding the Societal Factors of Vaccine Acceptance and Hesitancy: Evidence from Hong Kong.** _Public Health_. 207: 39-45. [doi: 10.1016/j.puhe.2022.03.013](https://doi.org/10.1016/j.puhe.2022.03.013)
+- Siuyau Lee, Samson Yuen, Nick Or, Edmund W. Cheng & Ricci P. H. Yue. 2022. **COVID-19 Vulnerability, Policy Feedback, and Support for Immigration: Evidence from Asia.** _British Journal of Social Psychology_. 61(4): 1124-1143. [doi: 10.1111/bjso.12529](https://doi.org/10.1111/bjso.12529)
+- Nick Or, Edmund W. Cheng, Ricci P. H. Yue & Samson Yuen. 2021. **Risk Perceptions, Anxiety and the Future of International Trade: A Cross-national Study of Public Trade Preferences in Asia under COVID-19.** _Journal of Elections, Public Opinion and Parties_. 31(1): 26–40. [doi: 10.1080/17457289.2021.1924732](https://doi.org/10.1080/17457289.2021.1924732)
+- Samson Yuen, Edmund W. Cheng, Nick Or, Karen A. Grepin, King-wa Fu, Ka Chun Yung & Ricci P. H. Yue. 2021. **A Tale of Two City-states: A Comparison of the State-led vs Civil Society-led Responses to COVID-19 in Singapore and Hong Kong.** _Global Public Health_. 16(8-9): 1283-1303. [doi: 10.1080/17441692.2021.1877769](https://doi.org/10.1080/17441692.2021.1877769)
 
 ---
 
