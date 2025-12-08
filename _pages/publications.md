@@ -51,7 +51,9 @@ The past few decades saw the transformation of Hong Kong from a liberal enclave 
 
 ### Migration
 
-Ho, Shuet-Ying Kitty, Samson Yuen, and Gary Tang. 2025. **Citizens in Transit: Diasporic Citizenship of Hongkongers Living as British National Overseas Migrants in the United Kingdom.** _Asian Ethnicity_. [doi:10.1080/14631369.2025.2551704](https://doi.org/10.1080/14631369.2025.2551704).
+- Yuen, Samson and Gary Tang. 2026. **Loyal to What and Whom? Relational Loyalty and Migration Decision-Making in Hong Kong.** _International Migration Review_. 
+- Ho, Shuet-Ying Kitty, Samson Yuen, and Gary Tang. 2025. **Citizens in Transit: Diasporic Citizenship of Hongkongers Living as British National Overseas Migrants in the United Kingdom.** _Asian Ethnicity_. [doi:10.1080/14631369.2025.2551704](https://doi.org/10.1080/14631369.2025.2551704).
+
 
 ---
 ### State-Society Relations in Greater China
