@@ -1,10 +1,8 @@
 ---
+layout: archive
 title: "Teaching"
-excerpt: "Teaching"
-author_profile: false
-redirect_from: 
-  - /teaching/
-  - /teaching.html
+permalink: /teaching/
+author_profile: true
 ---
 
 - Introduction to Political Economy
