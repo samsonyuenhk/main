@@ -8,7 +8,7 @@ redirect_from:
   - /teaching.html
 ---
 
-Introduction to Political Economy
-Contentious Politics and Global Conflicts
-Hong Kong and the World
-Politics of China
+- Introduction to Political Economy
+- Contentious Politics and Global Conflicts
+- Hong Kong and the World
+- Politics of China
