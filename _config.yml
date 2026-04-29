@@ -178,13 +178,13 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
   portfolio:
     output: false
     permalink: /:collection/:path/
-  talks:
+  resources:
     output: false
     permalink: /:collection/:path/
 
@@ -207,10 +207,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _research
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true
