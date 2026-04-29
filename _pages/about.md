@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 I am an associate professor of political science in the [Department of Government and International Studies](https://gis.hkbu.edu.hk/) at [Hong Kong Baptist University](https://www.hkbu.edu.hk/). I am also the Director of the Comparative Governance and Policy Research Centre, Hong Kong Baptist University. I have been a visiting fellow in the Australia Centre on China in the World, Australian National University and a visiting professor at the Sciences Po Bordeaux and Waseda University.
 
