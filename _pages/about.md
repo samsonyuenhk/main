@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 I am an associate professor of political science in the [Department of Government and International Studies](https://gis.hkbu.edu.hk/) at [Hong Kong Baptist University](https://www.hkbu.edu.hk/). I am also the Director of the Comparative Governance and Policy Research Centre, Hong Kong Baptist University. I have been a visiting fellow in the Australia Centre on China in the World, Australian National University and a visiting professor at the Sciences Po Bordeaux and Waseda University.
 
@@ -17,7 +16,7 @@ My research has been published in _Democratization_, _Geopolitics_, _Government 
 
 Please contact me at samsonyuen [at] hkbu.edu.hk. You can also visit my webpage at Hong Kong Baptist University.
 
-## <i class="fas fa-lightbulb"></i> Interests
+## <i class="fa-solid fa-lightbulb"></i> Interests
 
 - Contentious politics
 - Political economy
@@ -25,7 +24,7 @@ Please contact me at samsonyuen [at] hkbu.edu.hk. You can also visit my webpage 
 - Public opinion and political behavior
 - East Asian and Chinese politics
 
-## <i class="fas fa-graduation-cap"></i> Education
+## <i class="fa-solid fa-graduation-cap"></i> Education
 
 - **DPhil in Government** 2017, University of Oxford
 - **MPhil in Comparative Politics** 2012, University of Oxford  
