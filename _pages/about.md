@@ -16,7 +16,7 @@ My research has been published in _Democratization_, _Geopolitics_, _Government 
 
 Please contact me at samsonyuen [at] hkbu.edu.hk. You can also visit my [webpage](https://gis.hkbu.edu.hk/people/prof-wai-hei-samson-yuen.html) at Hong Kong Baptist University.
 
-## <i class="fa-solid fa-lightbulb"></i> Interests
+## <i class="fas fa-lightbulb"></i> Interests
 
 - Contentious politics
 - Political economy
@@ -24,7 +24,7 @@ Please contact me at samsonyuen [at] hkbu.edu.hk. You can also visit my [webpage
 - Public opinion and political behavior
 - East Asian and Chinese politics
 
-## <i class="fa-solid fa-graduation-cap"></i> Education
+## <i class="fas fa-graduation-cap"></i> Education
 
 - **DPhil in Government** 2017, University of Oxford
 - **MPhil in Comparative Politics** 2012, University of Oxford  
