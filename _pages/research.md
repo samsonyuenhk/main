@@ -26,6 +26,11 @@ The past few decades saw the transformation of Hong Kong from a liberal enclave 
 ### Contentious Politics
 
 - Yuen, Samson. *Forthcoming.* **Braking Bad: How Internal Brakes Restrain Violent Tactics in Leaderless Protests.** _Journal of Peace Research_. [doi: 10.1093/jopres/xjaf013](https://doi.org/10.1093/jopres/xjaf013)
+<details>
+  <summary>Abstract</summary>
+  Countermobilization has been a common strategy for autocrats to counteract the threat of opposition. Although the use of countermobilization has drawn scholarly attention, research on the mechanisms that enable countermobilization remains limited. This article underscores the role of political institutions in allowing autocrats to carry out countermobilization through incentivizing elites to serve as a bridge between the state and the masses. Focusing on the case of Hong Kong, where pro-government countermobilization is rising along with pro-democracy challenges against the hybrid regime, the article argues that countermobilization is enabled because societal elites are incentivized through political institutions to organize the masses and develop mobilization capacity through grassroots organizations. Using original elite biographical data and organizational data, the article shows that elites with more ties with grassroots organizations are more likely to remain in office in the Chinese People's Political Consultative Conference. The findings offer an institutionalist explanation of how authoritarian rulers enact countermobilization by leveraging elite intermediaries and their grassroots networks.
+  </details>
+
 - Lee, Francis LF, Samson Yuen, and Gary Tang. 2025. **Protest Memories and Individual Persistence: Examining Participants’ Intention to Remember a Movement under Democratic Backsliding.** _Social Movement Studies_. [doi: 10.1080/14742837.2025.2481050](https://doi.org/10.1080/14742837.2025.2481050)
 - Yuen, Samson & John Chit Wai Mok. 2023. **Groundwork for Democracy? Community Activism and Movement Abeyance in Post-handover Hong Kong.**  The China Journal_. 90(1):78-105. [doi: 10.1086/725129](https://doi.org/10.1086/725129)
 - Yuen, Samson. 2023. **Tolerant Solidarity with Violent Protesters: Evidence from a Survey Experiment.** _Journal of Conflict Resolution_. 67(9): 1731-1756. [doi: 10.1177/00220027231154451](https://doi.org/10.1177/00220027231154451)
