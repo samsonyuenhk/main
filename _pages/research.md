@@ -37,6 +37,35 @@ author_profile: true
 }
 .section-nav a:hover { border-bottom-style: solid; }
 
+/* Research-field directory under Journal Articles */
+.field-nav {
+  margin: 0.9em 0 1.8em;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+}
+.field-nav li { margin: 0; }
+.field-nav a {
+  display: inline-block;
+  padding: 5px 13px;
+  border: 1px solid #dcdcdc;
+  border-radius: 999px;
+  background: #fafafa;
+  color: #3d3d3d !important;
+  text-decoration: none !important;
+  line-height: 1.4;
+}
+.field-nav a:hover { background: #eef3f8; border-color: #a9c2d8; }
+.field-nav .count { color: #999; font-size: 0.9em; margin-left: 4px; }
+
+/* Highlight the field you just jumped to */
+.page__content h3:target {
+  background: #fffbe8;
+  box-shadow: -8px 0 0 #fffbe8, 8px 0 0 #fffbe8;
+}
+
 /* Publication list */
 .pub-list { list-style: none; padding-left: 0; margin-left: 0; }
 .pub-list > li {
@@ -189,7 +218,15 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 ## Peer-Reviewed Journal Articles
 
+<ul class="field-nav" markdown="0">
+  <li><a href="#contentious-politics">Contentious Politics</a></li>
+  <li><a href="#migration">Migration</a></li>
+  <li><a href="#greater-china">State–Society Relations in Greater China</a></li>
+  <li><a href="#public-health">Public Health</a></li>
+</ul>
+
 ### Contentious Politics
+{: #contentious-politics}
 
 <ul class="pub-list">
 
@@ -283,6 +320,7 @@ Edmund W. Cheng &amp; <span class="me">Samson Yuen</span>. 2019. <span class="ti
 </ul>
 
 ### Migration
+{: #migration}
 
 <ul class="pub-list">
 
@@ -299,6 +337,7 @@ Shuet-Ying Kitty Ho, <span class="me">Samson Yuen</span> &amp; Gary Tang. 2025. 
 </ul>
 
 ### State–Society Relations in Greater China
+{: #greater-china}
 
 <ul class="pub-list">
 
@@ -402,6 +441,7 @@ Karita Kan &amp; <span class="me">Samson Yuen</span>. 2018. <span class="title">
 </ul>
 
 ### Public Health
+{: #public-health}
 
 <ul class="pub-list">
 
