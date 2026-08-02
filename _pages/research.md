@@ -221,7 +221,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 <ul class="field-nav" markdown="0">
   <li><a href="#contentious-politics">Contentious Politics</a></li>
   <li><a href="#migration">Migration</a></li>
-  <li><a href="#greater-china">State–Society Relations in Greater China</a></li>
+  <li><a href="#greater-china">Greater China</a></li>
   <li><a href="#public-health">Public Health</a></li>
 </ul>
 
@@ -231,7 +231,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 <ul class="pub-list">
 
 <li markdown="1">
-<span class="me">Samson Yuen</span>. Forthcoming. <span class="title">Braking Bad: How Internal Brakes Restrain Violent Tactics in Leaderless Protests.</span> <span class="venue">Journal of Peace Research</span>. <a class="doi" href="https://doi.org/10.1093/jopres/xjaf013">doi:10.1093/jopres/xjaf013</a>
+<span class="me">Samson Yuen</span>. 2026. <span class="title">Braking Bad: How Internal Brakes Restrain Violent Tactics in Leaderless Protests.</span> <span class="venue">Journal of Peace Research</span>. <a class="doi" href="https://doi.org/10.1093/jopres/xjaf013">doi:10.1093/jopres/xjaf013</a>
 <details class="abstract"><summary>Abstract</summary><div class="abstract-body">Add abstract here.</div></details>
 </li>
 
