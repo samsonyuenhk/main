@@ -20,6 +20,9 @@ The past few decades saw the transformation of Hong Kong from a liberal enclave 
 
   **Order:** [Cambridge University Press](#) / [Amazon](#)
 
+- Co-winner of the American Sociological Association Section on Political Sociology’s 2026 Distinguished Contribution to Scholarship (Book) Award 
+- Co-winner of the American Political Science Association's Democracy and Autocracy Section 2026 Best Book Award
+
 ---
 ## Peer-reviewed journal articles
 
