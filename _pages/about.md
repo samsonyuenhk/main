@@ -29,3 +29,11 @@ Please contact me at samsonyuen [at] hkbu.edu.hk. You can also visit my [webpage
 - **DPhil in Government** 2017, University of Oxford
 - **MPhil in Comparative Politics** 2012, University of Oxford  
 - **BA in Economics** 2008, University of Chicago
+
+## <i class="fas fa-graduation-cap"></i> Current projects
+
+- Impact of Chinese developmental projects in the Global South
+- Economic insecurity and populism in East Asia
+- Demand diffusion in global protests
+- Pre-election mobilizations 
+- Consequences of countermobilizations
