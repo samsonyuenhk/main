@@ -10,9 +10,9 @@ redirect_from:
 
 I am an associate professor of political science in the [Department of Government and International Studies](https://gis.hkbu.edu.hk/) at [Hong Kong Baptist University](https://www.hkbu.edu.hk/). I am also the Director of the Comparative Governance and Policy Research Centre, Hong Kong Baptist University. I have been a visiting fellow in the Australia Centre on China in the World, Australian National University and a visiting professor at the Sciences Po Bordeaux and Waseda University.
 
-My research sits at the intersection of contentious politics, political economy, political institutions, public opinion and political behavior, with a regional focus on East Asia and China. Across these areas, I am interested in how citizens mobilize, how regimes adapt, and how individuals navigate political life in different regime settings. I use mixed methods – both quantitative and qualitative – in my research. 
+My research sits at the intersection of contentious politics, political economy, political institutions, public opinion and political behavior, with a regional focus on East Asia and China. Across these areas, I am interested in how citizens mobilize, how regimes adapt, and how individuals navigate political life in different regime settings. I use both quantitative and qualitative in my research. 
 
-My research has been published in _Democratization_, _Geopolitics_, _Government and Opposition_, _Journal of Conflict Resolution_, _Journal of Peace Research_, _Journal of Contemporary China_, _Mobilization_, _Political Psychology_, _Political Studies_, _Social Movement Studies_, _The China Quarterly_, and others. My book, [_The Making of Leaderful Mobilization: Power and Contention in Hong Kong_](https://www.cambridge.org/core/books/making-of-leaderful-mobilization/2E16EC5335A6E9D45551EE3ADCE37615) (coauthored book with Edmund W. Cheng), is published by Cambridge University Press under the Cambridge Series in Contentious Politics. 
+My research has been published in _Democratization_, _Geopolitics_, _Government and Opposition_, _Journal of Conflict Resolution_, _Journal of Peace Research_, _Journal of Contemporary China_, _Mobilization_, _Political Psychology_, _Political Studies_, _Social Movement Studies_, _The China Quarterly_, and others. My book, [_The Making of Leaderful Mobilization: Power and Contention in Hong Kong_](https://www.cambridge.org/core/books/making-of-leaderful-mobilization/2E16EC5335A6E9D45551EE3ADCE37615) (coauthored book with Edmund W. Cheng), is published by Cambridge University Press under the Cambridge Series in Contentious Politics. The book has won awards from the American Political Science Association and the American Sociological Association.  
 
 Please contact me at samsonyuen [at] hkbu.edu.hk. You can also visit my [webpage](https://gis.hkbu.edu.hk/people/prof-wai-hei-samson-yuen.html) at Hong Kong Baptist University.
 
@@ -29,4 +29,3 @@ Please contact me at samsonyuen [at] hkbu.edu.hk. You can also visit my [webpage
 - **DPhil in Government** 2017, University of Oxford
 - **MPhil in Comparative Politics** 2012, University of Oxford  
 - **BA in Economics** 2008, University of Chicago
-
