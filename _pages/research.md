@@ -325,6 +325,11 @@ Edmund W. Cheng &amp; <span class="me">Samson Yuen</span>. 2019. <span class="ti
 <ul class="pub-list">
 
 <li markdown="1">
+<span class="me">Samson Yuen</span> &amp; Yao-Tai Li. 2026. <span class="title">Cold feet on foreign soil? How repressive threats shape migrants’ political engagement.</span> <span class="venue">Comparative Migration Studies</span>. <a class="doi" href="https://doi.org/10.1186/s40878-026-00561-4">doi:10.1186/s40878-026-00561-4</a>
+<details class="abstract"><summary>Abstract</summary><div class="abstract-body">Add abstract here.</div></details>
+</li>
+
+<li markdown="1">
 <span class="me">Samson Yuen</span> &amp; Gary Tang. 2026. <span class="title">Loyal to What and Whom? Relational Loyalty and Migration Decision-Making in Hong Kong.</span> <span class="venue">International Migration Review</span>. <a class="doi" href="https://doi.org/10.1177/01979183251409759">doi:10.1177/01979183251409759</a>
 <details class="abstract"><summary>Abstract</summary><div class="abstract-body">Add abstract here.</div></details>
 </li>
@@ -336,7 +341,7 @@ Shuet-Ying Kitty Ho, <span class="me">Samson Yuen</span> &amp; Gary Tang. 2025. 
 
 </ul>
 
-### State–Society Relations in Greater China
+### Greater China 
 {: #greater-china}
 
 <ul class="pub-list">
